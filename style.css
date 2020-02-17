@@ -1,3 +1,27 @@
-h1{
-    color: blue;
+article header{
+    background-color: rgba(199, 109, 74,1);
+    width: 100vw;
+    transform: translate(-25vw);
+}
+
+article h1{
+    color: #fff;
+}
+
+article h2{
+    color: rgba(199, 109, 74,1);
+    border-bottom: 1px solid rgba(0, 0, 0,0.5);;
+}
+
+article h3{
+    color: rgba(199, 109, 74,1);
+}
+
+article button{
+    background-color: rgba(199, 109, 74,1);
+    color: #fff;
+}
+
+article footer{
+    border-top: 1px solid rgba(199, 109, 74,1);
 }
